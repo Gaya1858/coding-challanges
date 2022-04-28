@@ -1,7 +1,7 @@
 # Given an array of integers, return a new array where each elements in the new array is the number of smaller
 # elements to the right of that element in the original input array.
 # there are 2 ways to solve the problem
-# 1. naive approach which is the brut force algo and its TC is O(N^2)
+# 1. naive approach which is the brute force algo and its TC is O(N^2)
 # 2. is using bisect model from python and its TC is O(NlogN)
 
 import bisect
